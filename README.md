@@ -22,7 +22,7 @@ def strEasylen(some_guy's_variable):
     return
 ```
 
-* Then you type "strEasylen(some_guy's_variable)" and you're done! Whatever number you input will be converted to string and it's length counted. *
+* Then you type "strEasylen(some_guy's_variable)" and you're done! Whatever number you input will be converted to string and it's length counted. 
 
 ## Function 2:
 
