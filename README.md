@@ -9,7 +9,7 @@ A wip list of functions that I have created.
 
 * Bring the code into your program,
 * make your variable take an input,
-* write, "strEasylen(****Your Function***)" and you're done!*
+* write, "strEasylen(****Your Function****)" and you're done!*
 
 ```
 # remember, your input has to be a number.
@@ -27,3 +27,5 @@ def strEasylen(some_guy's_variable):
 ## Function 2:
 
 ### convlen
+
+(*******************hi*****************)
