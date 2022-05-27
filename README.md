@@ -9,7 +9,7 @@ A wip list of functions that I have created.
 
 * Bring the code into your program,
 * make your variable take an input,
-* write, "strEasylen(****Your Function****)" and you're done!*
+* write, "strEasylen(****Your Variable****)" and you're done!*
 
 ```
 # remember, your input has to be a number.
@@ -28,4 +28,16 @@ def strEasylen(some_guy's_variable):
 
 ### convlen
 
-(*******************hi*****************)
+*convlen means "conveniant length" and, as the name implies, conveniantly quickly measures the length of one of your inputs, without you having to re-write the same old boring code over and over again to do that. To get this function into your program, you first,*
+
+*Bring the code into your program,
+*make one of your variables take an input,
+*write, "convlen(****Your Variable***)", and voila, you're done!*
+
+```
+rubbish_bill = input()
+
+def convlen(rubbish_bill):
+    print(len(rubbish_bill))
+    return
+
