@@ -30,9 +30,7 @@ def strEasylen(some_guy's_variable):
 
 *convlen means "conveniant length" and, as the name implies, conveniantly quickly measures the length of one of your inputs, without you having to re-write the same old boring code over and over again to do that. To get this function into your program, you first,*
 
-*Bring the code into your program,
-make one of your variables take an input,
-write, "convlen(****Your Variable***)", and voila, you're done!*
+*Bring the code into your program, make one of your variables take an input, write, "convlen(****Your Variable***)", and voila, you're done!*
 
 ```
 rubbish_bill = input()
