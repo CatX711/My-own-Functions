@@ -40,4 +40,20 @@ rubbish_bill = input()
 def convlen(rubbish_bill):
     print(len(rubbish_bill))
     return
+```
 
+## Function 3:
+
+### intEasylen
+
+*intEasylen takes your input, converts it into a string, and then prints the length of it. It is like the opposite of strEasylen, as that function converts your input into string, as this one converts it into an integer*
+
+ ****I think you know how to insert this into your code at this point!****
+
+
+```
+    def intEasylen(number):
+        int((number))
+        print(len(number))
+        return
+```        
